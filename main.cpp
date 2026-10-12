@@ -50,7 +50,7 @@ int main(){
         } else if(boardSize == 10) {
             cout << "  abcdefghij";
         } else if(boardSize == 12) {
-            cout << "  abcdefghikl";
+            cout << "  abcdefghijkl";
         }
         cout << endl;
         for(int x = 0; x < boardSize; x++){
